@@ -2,6 +2,8 @@ pycache/
 *.py[cod]
 *.pyo
 
+Dumps.txt
+
 Virtual environment
 venv/
 env/
