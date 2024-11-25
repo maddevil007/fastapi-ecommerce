@@ -1,0 +1,65 @@
+pycache/
+*.py[cod]
+*.pyo
+
+Virtual environment
+venv/
+env/
+
+IDE/Editor-specific files
+.vscode/
+.idea/
+
+Environment variables
+.env
+
+Logs and debug output
+*.log
+*.sqlite3
+
+Byte-compiled files and system files
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+Packages
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+Test coverage files
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cover
+.coverage.
+
+Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+Temporary files
+*.tmp
+*.temp
+*.pid
+
+Compiled Python files
+*.so
+*.dll
+*.dylib
+
+Generated documentation
+/build/
+
+Pytest and coverage
+.cache/
+pytest_cache/
+coverage.xml
+*.cover
+
+Docker
+*.env.docker
+docker-compose.override.yml
